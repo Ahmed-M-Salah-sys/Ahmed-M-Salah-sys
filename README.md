@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Ahmed Mohamed Salah
+### Front-End & Web Developer | Passionate about building clean, responsive web apps
 
-<!--
-**Ahmed-M-Salah-sys/Ahmed-M-Salah-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on web development projects using **HTML, CSS, JavaScript**.
+- 🛠️ Tech Stack: HTML5, CSS3, JavaScript.
+- 🎯 Goals: Learning advanced Web Frameworks & expanding into App Development.
+- ⚡ Fun fact: I love building interactive web elements and exploring clean layouts!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages and Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-M-Salah-sys&show_icons=true&theme=dark" alt="Ahmed's GitHub stats" />
+</p>
